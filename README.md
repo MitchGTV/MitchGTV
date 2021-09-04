@@ -1,8 +1,13 @@
+#Welcome to my profile!
+
+####Let's start with a current facts: 
 - 👋 Hi, I’m @MitchGTV
 - 👀 I’m interested in AWS & WEB APPS
-- 🌱 I’m currently learning Laravel & Tailwind
+- 🌱 I’m currently learning Laravel
 - 💞️ I’m looking to collaborate on eCommerce projects
 - 📫 How to reach me mitchell@mb-22.com
+
+
 
 <!---
 MitchGTV/MitchGTV is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
