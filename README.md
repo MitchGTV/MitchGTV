@@ -1,6 +1,6 @@
-#Welcome to my profile!
+# Welcome to my profile!
 
-####Let's start with a current facts: 
+#### Let's start with a current facts: 
 - 👋 Hi, I’m @MitchGTV
 - 👀 I’m interested in AWS & WEB APPS
 - 🌱 I’m currently learning Laravel
