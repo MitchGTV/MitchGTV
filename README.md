@@ -10,12 +10,12 @@
 #### A little about me 
 I am currently 25 years old and I am working to build an IT enterprise and Fintech company that will assist small, medium to large businesses & other enterprises operate online. 
 
-During the course of 2023 I am looking to build on my two main software projects. 
+During the course of 2024 I am looking to build on my two main software projects. 
 
 #### Services I offer
-- 🚀 Super-Fast Global Web, Email Hosting & Managed DNS Service,
-- 🎮 Private UK Games Hosting for a range of PC Multiplayer Servers,
-- 👨🏼‍💻 Bespoke Web, Software & Ecommerce Development using our powerful programming stack built on Laravel,
+- 🚀 Super-Fast Global Web, Email Hosting & Managed DNS Service.
+- 🎮 Private UK Games Hosting for a range of PC Multiplayer Servers.
+- 👨🏼‍💻 Bespoke Web, Software & Ecommerce Development using our powerful programming stack built on Laravel & Vue.js
 
 <!---
 MitchGTV/MitchGTV is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
